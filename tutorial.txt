@@ -1,0 +1,4 @@
+After editing everything, open terminal and type
+    1. hexo generate
+    3. hexo server  (preview the local server to see if any mistake)
+    2. hexo deploy  (push changes to github)
