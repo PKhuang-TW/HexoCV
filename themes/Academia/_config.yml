@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/myPhoto.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'PoKai Huang'
-author_bio: 'I am enthusiastic and like challenges. Familiar with C/C++, Python, Unity, Arduino, UX. I graduateed from NCTU in 2020, and have 2 years working experience as a FW engineer in SiliconMotion.'
+author_bio: 'I am passionate and like challenges. Familiar with C/C++ and Python. I graduateed from NCTU in 2020, and have 3 years working experience as a FW engineer in SiliconMotion.'
 
 since: 2020
 
