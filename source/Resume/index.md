@@ -9,10 +9,19 @@ date: 2020-11-01 18:14:03
 **Silicon Motion**
 2021.01 - Now
 
- - Develop & Verify Security features according to TCG spec
- - Customize requirements & Firmware debug
+ - Develop & Verify Security features according to [TCG](https://trustedcomputinggroup.org/) spec
  - Modularize features into Libraries for easier project management
+ - Secure Boot Authentication
+ - Firmware Update Verification
+ - Threat Analysis and Risk Assessment
  - Develop automation scripts to improve working efficiency
+ - Customize requirements & Firmware debug
+
+---
+---
+
+# Certificate
+- [ISO/SAE 21434](/attaches/Certificate-PoKai-Huang.pdf)
 
 ---
 ---
@@ -29,7 +38,6 @@ National Chiao-Tung University, Taiwan
     - Deep Learning
     - Computer Vision
     - VR and AR
-    - Algorithm
     - User Center Interaction Design
 
  - Overall GPA
@@ -63,7 +71,16 @@ _2013 - 2020_
 ---
 
 # Skills
-* Software
-    * C/C++, C#, Python, Unity, Arduino
+* Programming Language
+    * C/C++
+    * Python
+* Skills
+    * [TCG Security](https://trustedcomputinggroup.org/)
+    * Secure Boot Authentication
+    * Firmware Update Verification
+    * API Modularize
+    * Unity
+    * Arduino
 * Language
-    * Mandarin, English
+    * Mandarin
+    * English

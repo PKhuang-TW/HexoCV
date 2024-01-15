@@ -54,8 +54,8 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/PKHuang_CV.pdf
-  description: My CV.
+  dir: /attaches/PKHuang_Resume.pdf
+  description: My Resume
 
 # Box-shadow
 # display box-shadow on page or not

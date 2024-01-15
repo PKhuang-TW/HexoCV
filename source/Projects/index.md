@@ -91,28 +91,6 @@ date: 2020-11-01 18:24:00
 
 ---
 
-### [iRing](/iRing/)
-
-<div
-    class = "projectBox">
-  <table>
-    <tr>
-      <th
-        class = "imageColumn">
-        <img src = "iRing.jpg"
-            class = "projectImg">
-      </th>
-      <th
-        class = "textColumn">
-            This is a intelligent ring using <b>Infrared Reflection</b>. 4 IR sensors are attached on the 3D-printed Ring. Data from each sensor were collected in four states and was used to recognize current states in real time. The states are determined by the distance between finger and ring since the result will be different in each situation. Arduino and Python are used to collect data; Processing is used to build the interface.
-      </th>
-    </tr>
-  </table>
-</div>
-
-
----
-
 
 ### [CoinForest](/CoinForest/)
 <div
@@ -127,6 +105,30 @@ date: 2020-11-01 18:24:00
       <th
         class = "textColumn">
             This is a <b>PC Game</b> built by Unity 3D. There are 10 coins in the world, player can either play again or exit after collecting all the coins. <I>Due to the computer performance is not very good, the recorded video is a bit lag, but there is no such phenomenon when playing.</I>
+      </th>
+    </tr>
+  </table>
+</div>
+
+
+---
+
+
+<!-- 
+### [iRing](/iRing/)
+
+<div
+    class = "projectBox">
+  <table>
+    <tr>
+      <th
+        class = "imageColumn">
+        <img src = "iRing.jpg"
+            class = "projectImg">
+      </th>
+      <th
+        class = "textColumn">
+            This is a intelligent ring using <b>Infrared Reflection</b>. 4 IR sensors are attached on the 3D-printed Ring. Data from each sensor were collected in four states and was used to recognize current states in real time. The states are determined by the distance between finger and ring since the result will be different in each situation. Arduino and Python are used to collect data; Processing is used to build the interface.
       </th>
     </tr>
   </table>
@@ -152,4 +154,4 @@ date: 2020-11-01 18:24:00
       </th>
     </tr>
   </table>
-</div>
+</div> -->
