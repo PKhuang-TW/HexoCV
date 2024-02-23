@@ -21,12 +21,6 @@ date: 2020-11-01 18:14:03
 ---
 ---
 
-# Award
-- [Academic Excellence Award](/attaches/Academic_Excellence_Award.pdf)
-
----
----
-
 # Certificate
 - [ISO/SAE 21434](/attaches/Certificate-PoKai-Huang.pdf)
 
@@ -49,6 +43,8 @@ National Chiao-Tung University, Taiwan
 
  - Overall GPA
     - 3.9/4.3
+
+ - [Academic Excellence Award](/attaches/Academic_Excellence_Award.pdf)
 
 ---
 
