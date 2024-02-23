@@ -7,15 +7,22 @@ date: 2020-11-01 18:14:03
 
 ## FW Engineer
 **Silicon Motion**
-2021.01 - Now
+2021.01 - Present
 
- - Develop & Verify Security features according to [TCG](https://trustedcomputinggroup.org/) spec
- - Modularize features into Libraries for easier project management
+ - Develop **Security features** according to [TCG](https://trustedcomputinggroup.org/) spec
+ - Design **verification flow** and develop scripts to verify Security features
+ - Modularize features into **Libraries** for easier project management
  - Secure Boot Authentication
  - Firmware Update Verification
  - Threat Analysis and Risk Assessment
  - Develop automation scripts to improve working efficiency
  - Customize requirements & Firmware debug
+
+---
+---
+
+# Award
+- [Academic Excellence Award](/attaches/Academic_Excellence_Award.pdf)
 
 ---
 ---
@@ -72,9 +79,11 @@ _2013 - 2020_
 
 # Skills
 * Programming Language
+    * System Verilog
     * C/C++
     * Python
 * Skills
+    * UVM
     * [TCG Security](https://trustedcomputinggroup.org/)
     * Secure Boot Authentication
     * Firmware Update Verification
