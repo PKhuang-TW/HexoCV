@@ -3,7 +3,58 @@ title: Projects
 date: 2020-11-01 18:24:00
 ---
 
+### Sync FIFO UVM Verification IP
+
+<div
+    class = "projectBox">
+  <table>
+    <tr>
+      <th
+        class = "imageColumn">
+            <img src = "SyncFIFO.png"
+            class = "projectImg">
+          </a>
+      </th>
+      <th class="textColumn">
+        <div class="githubLink">
+          <a href="https://github.com/PKhuang-TW/pkhuang_sync_fifo_vip" target="_blank">[Github]</a>
+        </div>
+        <div class="description">
+          A reusable UVM-based verification IP for synchronous FIFO. It includes configurable depth/width,
+          <strong>active and passive agents, scoreboard with reference model, and functional coverage</strong>.
+          Supports blocking read/write and checks full/empty behavior and data integrity.
+        </div>
+      </th>
+    </tr>
+  </table>
+</div>
+
 ---
+
+### Counter UVM Verification IP
+<div
+    class = "projectBox">
+  <table>
+    <tr>
+      <th
+        class = "imageColumn">
+            <img src = "counter.png"
+            class = "projectImg">
+          </a>
+      </th>
+      <th class="textColumn">
+        <div class="githubLink">
+          <a href="https://github.com/PKhuang-TW/pkhuang_up_down_counter_vip" target="_blank">[Github]</a>
+        </div>
+        <div class="description">
+          A simple 3-bit up-down counter with direction control and edge-triggered reverse logic. It counts from 0 to 7 and back, automatically changing direction at the boundaries. Supports manual direction reversal through a one-cycle reverse signal.
+        </div>
+      </th>
+    </tr>
+  </table>
+</div>
+
+<!-- ---
 ### [Multi-Style Semantic Style Transfer](/MultiStyleNST/)
 
 <div
@@ -114,7 +165,7 @@ date: 2020-11-01 18:24:00
 ---
 
 
-<!-- 
+
 ### [iRing](/iRing/)
 
 <div

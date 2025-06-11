@@ -13,6 +13,8 @@ date: 2020-11-01 18:14:03
  - **Test Plan** development
  - Design **testvectors**
 
+---
+
 ## Firmware Engineer
 [**Silicon Motion**](https://www.siliconmotion.com/)
 2021.01 - 2024.05
