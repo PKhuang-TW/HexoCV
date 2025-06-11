@@ -3,26 +3,26 @@ title:
 date: 2020-11-01 18:14:03
 ---
 
-# Employment History
+# Experience
 
-## FW Engineer
-**Silicon Motion**
-2021.01 - Present
+## Design Verification Engineer
+[**Phison Electronics**](https://www.phison.com/)
+2024.06 - Present
+
+ - UFS underlying IP ([Unipro](https://www.mipi.org/specifications/unipro-specifications)) design verification
+ - **Test Plan** development
+ - Design **testvectors**
+
+## Firmware Engineer
+[**Silicon Motion**](https://www.siliconmotion.com/)
+2021.01 - 2024.05
 
  - Develop **Security features** according to [TCG](https://trustedcomputinggroup.org/) spec
- - Design **verification flow** and develop scripts to verify Security features
+ - Design **Test Plan** and develop **Testvectors** to verify Security features
  - Modularize features into **Libraries** for easier project management
  - Secure Boot Authentication
  - Firmware Update Verification
- - Threat Analysis and Risk Assessment
- - Develop automation scripts to improve working efficiency
  - Customize requirements & Firmware debug
-
----
----
-
-# Certificate
-- [ISO/SAE 21434](/attaches/Certificate-PoKai-Huang.pdf)
 
 ---
 ---
@@ -33,17 +33,6 @@ date: 2020-11-01 18:14:03
 **Institute of Computer Science and Engineering**  
 National Chiao-Tung University, Taiwan
 2018 - 2020
-
- - Key Courses
-    - Machine Learning
-    - Deep Learning
-    - Computer Vision
-    - VR and AR
-    - User Center Interaction Design
-
- - Overall GPA
-    - 3.9/4.3
-
  - [Academic Excellence Award](/attaches/Academic_Excellence_Award.pdf)
 
 ---
@@ -53,13 +42,10 @@ National Chiao-Tung University, Taiwan
 National Central University, Taiwan
 2013 - 2017
 
- - Overall GPA
-    - 3.0/4.3
-
 ---
 ---
 
-# Teaching Experience
+# Tutoring Experience
 **Introduction to Computers and Programming, Dept. of Computer Science, NCTU**
 Teacher Assistant (C, Python)
 _2018 Fall_<br>
@@ -83,9 +69,3 @@ _2013 - 2020_
     * [TCG Security](https://trustedcomputinggroup.org/)
     * Secure Boot Authentication
     * Firmware Update Verification
-    * API Modularize
-    * Unity
-    * Arduino
-* Language
-    * Mandarin
-    * English
