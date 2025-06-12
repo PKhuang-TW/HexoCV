@@ -16,7 +16,7 @@ date: 2020-11-01 18:24:00
           </a>
       </th>
       <th class="textColumn">
-        <div class="githubLink">
+        <div class="myLink">
           <a href="https://github.com/PKhuang-TW/pkhuang_sync_fifo_vip" target="_blank">[Github]</a>
         </div>
         <div class="description">
@@ -43,7 +43,7 @@ date: 2020-11-01 18:24:00
           </a>
       </th>
       <th class="textColumn">
-        <div class="githubLink">
+        <div class="myLink">
           <a href="https://github.com/PKhuang-TW/pkhuang_up_down_counter_vip" target="_blank">[Github]</a>
         </div>
         <div class="description">

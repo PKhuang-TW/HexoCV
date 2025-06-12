@@ -13,8 +13,8 @@ since: 2020
 menu:
   # About: /
   Resume: /Resume/
-  # Thesis: /Thesis/
   Projects: /Projects/
+  Notebooks: /Notebooks/
   # Blog: https://phower.me
 
 # flink picture will load if avator link calls on error

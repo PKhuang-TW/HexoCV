@@ -21,6 +21,8 @@
   padding: 1%;
   overflow: auto;
   vertical-align: middle;
+  margin-top: 5px;
+  padding-top: 0;
 }
 .projectBox .projectImg {
   max-width: 80%;
@@ -34,8 +36,8 @@
 .projectBox .textColumn {
   width: 75%;
   text-align: justify;
-  font-size: 1.2em;
-  line-height: 1.35em;
+  font-size: 1.1em;
+  line-height: 1.4em;
   font-weight: normal;
   padding-left: 10px;
 }
@@ -44,4 +46,11 @@
   margin-left: auto;
   margin-right: auto;
   width: 75%;
+}
+.myLink {
+  margin-bottom: 15px;
+}
+h3,
+h4 {
+  margin-bottom: 20px;
 }
