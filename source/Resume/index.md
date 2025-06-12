@@ -10,6 +10,7 @@ date: 2020-11-01 18:14:03
 2024.06 - Present
 
  - UFS underlying IP ([Unipro](https://www.mipi.org/specifications/unipro-specifications)) design verification
+ - Formal Property Verification (**FPV**)
  - **Test Plan** development
  - Design **testvectors**
 

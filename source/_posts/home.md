@@ -8,6 +8,7 @@ date: 2020-11-03 09:46:54
 I am currently working at Phison Electronics as a **Design Verification Engineer**, responsible for verifying the UFS underlying IP – [Unipro](https://www.mipi.org/specifications/unipro-specifications). Over the past year at Phison, I have participated in a full cycle of Unipro 3.0 verification, which includes:
 
 * Designing test plans
+* Formal Property Verification (FPV)
 * Discussing and modifying test plans with overseas clients
 * Writing testvectors
 * Verifying in-house DUTs and collaborating with designers on debugging
