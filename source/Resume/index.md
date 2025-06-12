@@ -9,10 +9,12 @@ date: 2020-11-01 18:14:03
 [**Phison Electronics**](https://www.phison.com/)
 2024.06 - Present
 
- - UFS underlying IP ([Unipro](https://www.mipi.org/specifications/unipro-specifications)) design verification
- - Formal Property Verification (**FPV**)
- - **Test Plan** development
- - Design **testvectors**
+* UFS underlying IP ([**Unipro**](https://www.mipi.org/specifications/unipro-specifications)) design verification
+* Develop **UVM environment** for DUT
+* Formal Property Verification (**FPV**)
+* Design **test plans** and **testvectors**
+* Discussing and modifying test plans with overseas clients
+* Verifying in-house DUTs and collaborating with designers on debugging
 
 ---
 

@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/myPhoto.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'PoKai Huang'
-author_bio: 'I am an outgoing and energetic person with strong communication and leadership skills. With 6–7 years of experience as a tutor, I’ve honed my ability to present ideas clearly and work well with others.'
+# author_bio: 'I am an outgoing and energetic person with strong communication and leadership skills. With 6–7 years of experience as a tutor, I’ve honed my ability to present ideas clearly and work well with others.'
 
 since: 2020
 
@@ -27,12 +27,12 @@ loading_bg:
 social:
   enable: false
 social_links:
-  # fas fa-envelope: / #E-mail
-  # fab fa-github: /
+  fas fa-envelope: pokaihuang.tw@gmail.com
+  fab fa-github: https://github.com/PKhuang-TW/ 
+  fab fa-linkedin: https://www.linkedin.com/in/pkhuang-tw/
   # fab fa-twitter: /
   # fab fa-facebook-square: /
   # fab fa-stack-overflow: /
-  # fab fa-linkedin: /
   # fab fa-weibo: /
   # fab fa-weixin: /
   # fab fa-qq: /
@@ -45,7 +45,8 @@ e_social:
 e_social_links:
   0932-732-142: tel:0932732142 || fas fa-phone-alt
   pokaihuang.tw@gmail.com: mailto:pokaihuang.tw@gmail.com || fas fa-envelope
-  https://github.com/PKhuang-TW: https://github.com/PKhuang-TW/ || fab fa-github
+  Github: https://github.com/PKhuang-TW/ || fab fa-github
+  LinkedIn: https://www.linkedin.com/in/pkhuang-tw/ || fab fa-linkedin
   Hsinchu, TW: / || fas fa-map-marker-alt
 
   # Google Scholar: / || fas fa-graduation-cap
