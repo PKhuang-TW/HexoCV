@@ -24,7 +24,7 @@ date: 2020-11-01 18:14:03
 
  - Develop **Security features** according to [TCG](https://trustedcomputinggroup.org/) spec
  - Design **Test Plan** and develop **Testvectors** to verify Security features
- - Modularize features into **Libraries** for easier project management
+ - Refactoring firmware features into **reusable libraries** for flexible usage
  - Secure Boot Authentication
  - Firmware Update Verification
  - Customize requirements & Firmware debug
