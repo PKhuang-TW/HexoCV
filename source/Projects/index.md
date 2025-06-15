@@ -3,7 +3,35 @@ title: Projects
 date: 2020-11-01 18:24:00
 ---
 
-### Sync FIFO UVM Verification IP
+### APB UVM VIP (Ongoing)
+
+<div
+    class = "projectBox">
+  <table>
+    <tr>
+      <th
+        class = "imageColumn">
+            <img src = "APB.png"
+            class = "projectImg">
+          </a>
+      </th>
+      <th class="textColumn">
+        <div class="myLink">
+          <a href="https://github.com/PKhuang-TW/pkhuang_apb_vip" target="_blank">[Github]</a>
+        </div>
+        <div class="description">
+          A reusable UVM-based verification IP for the AMBA APB protocol [<a href="https://developer.arm.com/documentation/ihi0024/e/" target="_blank">IHI0024E</a>]. It provides configurable <strong>master and slave BFMs</strong> with protocol checks, functional coverage, and a scoreboard for data and response validation.
+        </div>
+      </th>
+    </tr>
+  </table>
+</div>
+
+---
+
+
+
+### Sync FIFO UVM VIP
 
 <div
     class = "projectBox">
@@ -31,7 +59,7 @@ date: 2020-11-01 18:24:00
 
 ---
 
-### Counter UVM Verification IP
+### Counter UVM VIP
 <div
     class = "projectBox">
   <table>
