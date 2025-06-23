@@ -3,6 +3,32 @@ title: Projects
 date: 2020-11-01 18:24:00
 ---
 
+### AXI UVM VIP (Ongoing)
+
+<div
+    class = "projectBox">
+  <table>
+    <tr>
+      <th
+        class = "imageColumn">
+            <img src = "AXI.png"
+            class = "projectImg">
+          </a>
+      </th>
+      <th class="textColumn">
+        <div class="myLink">
+          <a href="https://github.com/PKhuang-TW/pkhuang_axi_vip" target="_blank">[Github]</a>
+        </div>
+        <div class="description">
+          A reusable UVM-based verification IP for the AMBA AXI protocol [<a href="https://developer.arm.com/documentation/ihi0022/e/?lang=en" target="_blank">IHI0022E</a>]. It provides configurable master and slave BFMs with SVA protocol checks, functional coverage, and a scoreboard for data and response validation. Supports burst transactions, out-of-order responses, and advanced AXI features to ensure protocol compliance and robust verification.
+        </div>
+      </th>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### APB UVM VIP
 
 <div
@@ -20,7 +46,7 @@ date: 2020-11-01 18:24:00
           <a href="https://github.com/PKhuang-TW/pkhuang_apb_vip" target="_blank">[Github]</a>
         </div>
         <div class="description">
-          A reusable UVM-based verification IP for the AMBA APB protocol [<a href="https://developer.arm.com/documentation/ihi0024/e/" target="_blank">IHI0024E</a>]. It provides configurable <strong>master and slave BFMs</strong> with protocol checks, functional coverage, and a scoreboard for data and response validation.
+          A reusable UVM-based verification IP for the AMBA APB protocol [<a href="https://developer.arm.com/documentation/ihi0024/e/" target="_blank">IHI0024E</a>]. It provides configurable <strong>master and slave BFMs with SVA protocol checks, functional coverage, and a scoreboard for data and response validation</strong>.
         </div>
       </th>
     </tr>
