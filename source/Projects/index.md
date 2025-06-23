@@ -3,7 +3,7 @@ title: Projects
 date: 2020-11-01 18:24:00
 ---
 
-### APB UVM VIP (Ongoing)
+### APB UVM VIP
 
 <div
     class = "projectBox">
