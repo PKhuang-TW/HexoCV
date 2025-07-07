@@ -20,7 +20,7 @@ date: 2020-11-01 18:24:00
           <a href="https://github.com/PKhuang-TW/pkhuang_axi_vip" target="_blank">[Github]</a>
         </div>
         <div class="description">
-          A reusable UVM-based verification IP for the AMBA AXI protocol [<a href="https://developer.arm.com/documentation/ihi0022/e/?lang=en" target="_blank">IHI0022E</a>]. It provides configurable master and slave BFMs with SVA protocol checks, functional coverage, and a scoreboard for data and response validation. Supports burst transactions, out-of-order responses, and advanced AXI features to ensure protocol compliance and robust verification.
+          AXI4 [<a href="https://developer.arm.com/documentation/ihi0022/e/?lang=en" target="_blank">IHI0022E</a>] UVM VIP with master/slave agents and loopback support. Features include memory model, BFMs, SVA timing checks, configurable burst transactions, and reusable testbench components. Designed for protocol compliance testing and DUT validation in scalable AXI-based SoC environments.
         </div>
       </th>
     </tr>
