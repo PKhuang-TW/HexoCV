@@ -5,9 +5,18 @@ date: 2020-11-01 18:14:03
 
 # Experience
 
-## Design Verification Engineer
+---
+
+### Design Verification Engineer
+[**Realtek Semiconductor**](https://www.realtek.com/)
+2025.09 - Present
+
+
+---
+
+### Design Verification Engineer
 [**Phison Electronics**](https://www.phison.com/)
-2024.06 - Present
+2024.06 - 2025.08
 
 * UFS underlying IP ([**Unipro**](https://www.mipi.org/specifications/unipro-specifications)) design verification
 * Develop **UVM environment** for DUT
@@ -18,7 +27,7 @@ date: 2020-11-01 18:14:03
 
 ---
 
-## Firmware Engineer
+### Firmware Engineer
 [**Silicon Motion**](https://www.siliconmotion.com/)
 2021.01 - 2024.05
 
