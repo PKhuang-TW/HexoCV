@@ -8,9 +8,14 @@ date: 2020-11-01 18:14:03
 ---
 
 ### Design Verification Engineer
-[**Realtek Semiconductor**](https://www.realtek.com/)
+[**Realtek Semiconductor Corp.**](https://www.realtek.com/)
 2025.09 - Present
 
+* [**CSI-2**](https://www.mipi.org/specifications/csi-2) & [**D-PHY**](https://www.mipi.org/specifications/d-phy) design verification
+* Develop **UVM environment** for DUT
+* Design **test plans** & **test patterns**
+  * Use AI assistance to make the test plan more comprehensive
+* Add **checkers, SVA** to verify DUT behavior
 
 ---
 
@@ -18,10 +23,10 @@ date: 2020-11-01 18:14:03
 [**Phison Electronics**](https://www.phison.com/)
 2024.06 - 2025.08
 
-* UFS underlying IP ([**Unipro**](https://www.mipi.org/specifications/unipro-specifications)) design verification
+* UFS underlying IP - [[**Unipro**]](https://www.mipi.org/specifications/unipro-specifications) design verification
 * Develop **UVM environment** for DUT
 * Formal Property Verification (**FPV**)
-* Design **test plans** and **testvectors**
+* Design **test plans** and **test patterns**
 * Discussing and modifying test plans with overseas clients
 * Verifying in-house DUTs and collaborating with designers on debugging
 
