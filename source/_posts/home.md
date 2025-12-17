@@ -9,9 +9,19 @@ Hi, I'm an outgoing and energetic individual with strong communication and leade
 
 ---
 
-I am currently working at Phison Electronics as a **Design Verification Engineer**, where I am responsible for verifying the underlying IP of UFS – [**UniPro**](https://www.mipi.org/specifications/unipro-specifications) protocol.
+I am currently a **Design Verification Engineer** at Realtek Corp., specializing in the verification of [CSI-2](https://www.mipi.org/specifications/csi-2) TX controllers and [D-PHY](https://www.mipi.org/specifications/d-phy). My core responsibilities include:
+- Test Planning
+  - Formulating comprehensive test plans based on both standard interface specifications and in-house requirements.
+- VIP Customization
+  - Modifying and adapting VIP components—including drivers, monitors, and scoreboards—to align with specific DUT behaviors.
+- Sequence Development
+  - Creating and implementing UVM sequences to target specific test patterns and coverage goals."
 
-Previously, I worked as a **firmware engineer** at Silicon Motion for 3.5 years, where I had experience independently leading projects. I was mainly responsible for developing TCG security features and designing test plans and testvectors to verify the correctness of these features.
+Previously, I served as a **Design Verification Engineer** at Phison Electronics, focusing on the verification of the [UniPro](https://www.mipi.org/specifications/unipro-specifications) protocol (the transport layer for UFS)
+
+Prior to that, I worked as a **Firmware Engineer** at Silicon Motion for 3.5 years. In this role, I demonstrated strong leadership by independently leading projects. My primary responsibilities included:
+- Feature Development: Developing TCG security features and ensuring compliance with industry standards.
+- Verification: Designing comprehensive test plans and generating test vectors to verify the correctness and robustness of security functions.
 
 ---
 
