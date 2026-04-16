@@ -17,6 +17,8 @@ date: 2020-11-01 18:14:03
 * Modifying and adapting VIP components
   * including drivers, monitors, and scoreboards
 * Add **checkers, SVA** to verify DUT behavior
+* Gate Level Simulation (GLS)
+  * Establishing the **GLS** environment and provided results for debugging
 
 ---
 
