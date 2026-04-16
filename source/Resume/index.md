@@ -11,14 +11,14 @@ date: 2020-11-01 18:14:03
 [**Realtek Semiconductor Corp.**](https://www.realtek.com/)
 2025.09 - Present
 
-* [[**CSI-2**]](https://www.mipi.org/specifications/csi-2) & [[**D-PHY**]](https://www.mipi.org/specifications/d-phy) design verification
-* Design **test plans** & **test patterns**
+* Solely responsible for the verification of [[**CSI-2**]](https://www.mipi.org/specifications/csi-2) & [[**D-PHY**]](https://www.mipi.org/specifications/d-phy) design verification
+* Design test plan & test patterns
   * Use AI assistance to make the test plan more comprehensive
-* Modifying and adapting VIP components
-  * including drivers, monitors, and scoreboards
-* Add **checkers, SVA** to verify DUT behavior
+* Integrated VIP into the UVM architecture tailored for the in-house DUT
+  * Including drivers, monitors, scoreboards, checkers and SVA
+* Collaborate with designers on debugging and discussing coverage enhancement
 * Gate Level Simulation (GLS)
-  * Establishing the **GLS** environment and provided results for debugging
+  * Establish GLS environment and provide results to designers for debugging
 
 ---
 

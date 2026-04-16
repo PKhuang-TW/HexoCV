@@ -9,7 +9,7 @@ Hi, I'm an outgoing and energetic individual with strong communication and leade
 
 ---
 
-I am currently a **Design Verification Engineer** at [Realtek Corp.](https://www.realtek.com), specializing in the verification of [CSI-2](https://www.mipi.org/specifications/csi-2) TX controllers and [D-PHY](https://www.mipi.org/specifications/d-phy). My core responsibilities include:
+I am currently a **Design Verification Engineer** at [Realtek Corp.](https://www.realtek.com), solely responsible for the verification of [CSI-2](https://www.mipi.org/specifications/csi-2) TX controllers and [D-PHY](https://www.mipi.org/specifications/d-phy). My core responsibilities include:
 - Test Planning
   - Formulating comprehensive test plans based on both standard interface specifications and in-house requirements.
 - VIP Customization
